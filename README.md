@@ -1,7 +1,10 @@
-### Hi there 👋
+<div align="left">
+  
+<a class="img-box lightbox" href="http://www.framework-y.com/images/thumb-large.png">
+    <img src="https://i.ibb.co/6Drr1hL/profile-pic.png" alt="" />
+</a>
 
-<!--
-**daddyDOT/daddyDOT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
 Here are some ideas to get you started:
 
