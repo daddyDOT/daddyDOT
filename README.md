@@ -1,7 +1,7 @@
-<div align="left">
+<div align="center">
   
-<a class="img-box lightbox" href="http://www.framework-y.com/images/thumb-large.png">
-    <img src="https://i.ibb.co/6Drr1hL/profile-pic.png" alt="" />
+<a class="img-box lightbox">
+    <img src="https://i.ibb.co/grCNZJk/profilepic.png" alt="" />
 </a>
 
 ### Hi there 👋
