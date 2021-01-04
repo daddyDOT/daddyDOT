@@ -4,7 +4,11 @@
     <img src="https://i.ibb.co/grCNZJk/profilepic.png" alt="" />
 </a>
 
-### Hi there 👋
+### Ahmed Spahić
+##### (daddyDOT)
+👋
+
+<div align="left">
 
 Here are some ideas to get you started:
 
