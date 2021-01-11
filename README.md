@@ -17,3 +17,5 @@ I'm contributing to wiki and homepage by translating the pages into Bosnian but 
 ---
 
 ![daddyDOT's github stats](https://github-readme-stats.vercel.app/api?username=daddyDOT&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daddyDOT&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
