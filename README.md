@@ -1,5 +1,7 @@
 ### 👋
 
+![](https://komarev.com/ghpvc/?username=daddyDOT&color=brightgreen&style=flat)
+
 Hi. My name is Ahmed, but I am better known by the nickname daddyDOT (daddy.) on the internet.
 
 If you have any questions, feel free to ask me.
